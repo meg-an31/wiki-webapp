@@ -1,0 +1,21 @@
+.menuBar {
+  background: #282c34;
+  padding: 10px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.menuLink {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 20px;
+  font-size: 1.2rem;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.menuLink:hover {
+  color: #61dafb;
+} 

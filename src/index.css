@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: monospace;
+  background: #34373c;
+  color: #a6b0c5;
+}
+
+.content {
+  padding: 10px 20px;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  color: #c7d5f3;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
