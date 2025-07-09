@@ -1,12 +1,10 @@
 import React from 'react';
-import TextInputDemo from '../components/TextInputDemo';
-import ButtonDemo from '../components/ButtonDemo';
+import InputButtonParent from '../components/InputButtonParent';
 
 const Home: React.FC = () => (
   <div>
     <h1>Home Page</h1>
-    <TextInputDemo />
-    <ButtonDemo />
+    <InputButtonParent />
   </div>
 );
 
